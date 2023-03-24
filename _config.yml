@@ -15,11 +15,12 @@ url                      : https://wail-uottawa.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wail-uottawa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : uottawa_hor_wg9.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -81,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Wail Gueaieb"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Ottawa, Canada"
-  employer         : "University of Ottawa"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Wail+Gueaieb"
+  avatar           : "profile3.jpg" # "profile.png"
+  bio              : "Ph.D., P.Eng., SMIEEE<br>Professor @ <a style='color: black;' href='https://uottawa.ca' target='_blank'>uOttawa</a>"
+  location         : # "Ottawa, Canada"
+  employer         : # "University of Ottawa"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Wail+Gueaieb"
   googlescholar    : "https://scholar.google.ca/citations?user=qN4Y3NEAAAAJ&hl=en"
-  email            :
+  email            : "wgueaieb@uottawa.ca"
   researchgate     : "https://www.researchgate.net/search?q=Gueaieb"
   uri              :
   bitbucket        :
@@ -109,11 +110,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@miramlabuottawa-bu9ro"
+  youtube          : # "https://www.youtube.com/@miramlabuottawa-bu9ro"
   wikipedia        :
 
 
