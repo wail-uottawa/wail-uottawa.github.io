@@ -2,24 +2,27 @@
 main:
   # - title: "Publications"
   #   url: /publications/
+    
+  # - title: "Research"
+  #   url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  # - title: "Software"
+  #   url: /software/
+
+  # - title: "Posts"
+  #   url: /posts/
+    
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Prospective Students"
+    url: /prospective-students/
 
   - title: "Resources"
     url: /resources/
