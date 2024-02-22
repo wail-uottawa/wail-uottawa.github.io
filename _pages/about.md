@@ -21,9 +21,10 @@ redirect_from:
 
 For my research profile and publications, please see my [Uniweb page](https://uniweb.uottawa.ca/members/197/profile?embed=2){:target="_blank"}
 
-## Lab
+## Labs
 
-Visit the [YouTube Channel](https://www.youtube.com/@miramlabuottawa-bu9ro){:target="_blank"} of the Machine Intelligence, Robotics and Mechatronics (MIRaM) Lab 
+- Machine Intelligence, Robotics and Mechatronics (MIRaM) Lab [Visit the lab's [YouTube Channel](https://www.youtube.com/@miramlabuottawa-bu9ro){:target="_blank"}] 
+- Advanced Robotics Lab 
 
 ## Contact
 
