@@ -14,10 +14,10 @@ redirect_from:
 
 ## Research
 
-- Robotics and mechatronics
-- Intelligent systems
-- Control systems
-- Multi-sensory data fusion
+- Robotics and Mechatronics
+- Applied Artificial Intelligence
+- Intelligent Control
+- Multi-Sensory Data Fusion
 
 For my research profile and publications, please see my [Uniweb page](https://uniweb.uottawa.ca/members/197/profile?embed=2){:target="_blank"}
 
