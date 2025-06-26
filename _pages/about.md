@@ -19,7 +19,7 @@ redirect_from:
 - Intelligent Control
 - Multi-Sensory Data Fusion
 
-For my research profile and publications, please see my [Uniweb page](https://uniweb.uottawa.ca/members/197/profile?embed=2){:target="_blank"}
+For my research profile and publications, please see my [Uniweb page](https://uniweb.uottawa.ca/view/profile/members/Wail-Gueaieb){:target="_blank"}
 
 ## Labs
 
