@@ -1,0 +1,5 @@
+
++ To add a page, simply add it to _pages folder.
+  Then, add a link to it in the top bar menu by editing _data/navigation.yml 
++ Once done, commit the changes with magit 
+
