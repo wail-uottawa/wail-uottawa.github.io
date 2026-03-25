@@ -24,6 +24,9 @@ main:
   - title: "Prospective Students"
     url: /prospective-students/
 
+  - title: "Projects"
+    url: /projects/
+
   - title: "Resources"
     url: /resources/
 
