@@ -9,6 +9,7 @@ Over the past years, I had the privilege to collaborate with a number of industr
 
 * Canada Foundation for Innovation (CFI)
 * Compendium Group Inc.
+* ING Robotic Aviation Inc.
 * InvoDane Engineering Ltd.
 * Kylowave
 * Natural Sciences and Engineering Research Council of Canada (NSERC)
