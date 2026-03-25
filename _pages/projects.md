@@ -14,14 +14,12 @@ Successful candidates will have the opportunities to conduct both analytical and
 Overall, candidates must show strong evidence of theoretical and practical expertise in the project’s relevant fields. They must demonstrate the ability to perform world class research and to publish in the top venues of this research area.
 
 In particular, candidates must have the following qualifications:
-
 + Strong background in Lyapunov stability and nonlinear control theory (especially in optimal and adaptive control)
 + Good expertise in RL and machine learning
 + Strong programming skills in (C/C++ or Python) and (Pytorch or TensorFlow)
 + Good knowledge of ROS/Gazebo
 + Excellent scientific writing skills (in English)
  
-
 Good to have (but not necessary):
 + Enough experience in ArduPilot and UAV hardware
 
@@ -32,7 +30,6 @@ Recruited applicants will work under the supervision of Prof. Wail Gueaieb (Univ
 (where [Full Name] is replaced with the applicant's full name.
 
 The application package should contain the following PDF documents:
-
 + Full CV (make sure it includes a list of publications and the names and contact information of 3 references)
 + All graduate and undergraduate transcripts (official or unofficial)
 + A cover letter explaining how the candidate is a good fit for the research in hand, with a particular focus on the candidate's excellence in formal Lyapunov-based stability analysis of data-driven control of nonlinear systems
