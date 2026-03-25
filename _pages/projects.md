@@ -21,7 +21,7 @@ In particular, candidates must have the following qualifications:
 + Excellent scientific writing skills (in English)
  
 Good to have (but not necessary):
-+ Enough experience in ArduPilot and UAV hardware
+- Enough experience in ArduPilot and UAV hardware
 
 ### Application Process
 
