@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-# Funded Ph.D. Positions in Model-Free Control of UAVs
+## Funded Ph.D. Positions in Model-Free Control of UAVs
 
 Several funded Ph.D. positions are available in the Electrical and Computer Engineering program at the University of Ottawa and in the Department of Mechanical and Aerospace Engineering at Carleton University. They are part of a joint research project aiming at developing robust reinforcement learning (RL)-based controllers for autonomous unmanned aerial vehicles (UAVs) with online learning capabilities. The project pays special attention to commercialization requirements, such as formal (Lyapunov-based) robustness and stability guarantees, computational efficiency, and real-time performance.
 
